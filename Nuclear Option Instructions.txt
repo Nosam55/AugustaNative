@@ -1,0 +1,7 @@
+If you ever need to wipe this project and move the source to a new one, here
+are the commands I think you should run to get it ready to go:
+
+npm install react-native-webview --save
+npm install @react-native-community/geolocation --save
+
+npx react-native link
